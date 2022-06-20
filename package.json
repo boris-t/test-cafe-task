@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "testcafe": "^1.19.0"
+  },
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  }
+}
